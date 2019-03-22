@@ -1,2 +1,3 @@
 # hello-world
-helo-world project
+
+Exercise!
